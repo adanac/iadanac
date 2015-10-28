@@ -1,10 +1,5 @@
 title: 关于我 
-date: 2014-07-19 01:38:46
+date: 2015-07-19 11:38:46
 ---
-![](http://adanac.qiniudn.com/meinv.jpg)
-#####
-    i
-#####
-    am
-#####
-    adanac
+![](http://adanac.qiniudn.com/china1.png)
+    I'm Adanac! :)  You can contact me on [GitHub](https://github.com/adanac).
