@@ -1,1 +1,1 @@
-adanac's blog
+adanac's blog.
